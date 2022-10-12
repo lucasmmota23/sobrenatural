@@ -1,0 +1,42 @@
+.locais {
+  background-color: #121212;
+}
+
+.locais-container {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+  gap: 100px;
+}
+
+.locais-texto h2 {
+  color: #fff;
+  font-size: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+}
+
+.locais-texto p {
+  color: #c2c2c2;
+  max-width: 45ch;
+  line-height: 1.6;
+}
+
+.streamings {
+  color: #d21010;
+  font-weight: 600;
+}
+
+.canais {
+  color: #fff;
+  font-weight: 600;
+}
+
+.locais-container img {
+  width: 400px;
+}

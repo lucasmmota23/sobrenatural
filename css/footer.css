@@ -1,0 +1,18 @@
+.footer {
+  background-color: #000;
+}
+
+.footer-container {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-container p {
+  color: #fff;
+}
+
+.footer-container a {
+  color: #e5007b;
+}
